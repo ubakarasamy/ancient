@@ -1,4 +1,29 @@
+
+body{
+	font-family: Montserrat;
+}
 .mainhead
 {
 	text-transform: uppercase;
+	text-align: center;
+	padding-top: 10px;
+	font-family: Montserrat;
+}
+
+.logoac{
+	max-width: 150px; 
+}
+.social{
+	padding-top: 30px;
+	margin-left: -20px;
+}
+.social li
+{
+	display: inline;
+	padding-left: 15px;
+}
+.social li a{
+	font-size: 20px;
+	color:red;
+	text-decoration: none;
 }
